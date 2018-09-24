@@ -1,11 +1,16 @@
 _repo: The-Evolution-of-Naval-Armament_56777
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56777-h/images/cover.jpg
 creator:
   author:
     agent_name: Robertson, Frederick Leslie
     gutenberg_agent_id: '49034'
     url: http://www.gutenberg.org/2009/agents/49034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56777#The-Evolution-of-Naval-Armament
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
 identifiers:
